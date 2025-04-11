@@ -3,8 +3,6 @@ toc::[]
 
 = Setup
 
-I TESTed here.
-
 == Prerequisites
 
 We try to make it as simple as possible for you.
