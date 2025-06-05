@@ -89,7 +89,7 @@ public enum ProcessMode {
 
     @Override
     public Redirect getRedirectInput() {
-      return null;
+      return Redirect.INHERIT;
     }
 
   },
